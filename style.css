@@ -131,8 +131,6 @@ main {
         transform: translateY(-15px);
     }
 
-
-
     100% {
         opacity: 1;
         transform: translateY(0);
@@ -152,7 +150,6 @@ main {
 }
 
 @media (min-width: 700px) {
-
 
     main {
         grid-template-columns: 1fr 1fr;
